@@ -4,15 +4,19 @@
   "people": [
     {
       "name": "Allison",
-      "craft": "Bike"
+      "craft": "four wheeler"
     },
     {
       "name": "Olivia",
-      "craft": "Scooter"
+      "craft": "wheel chair"
     },
     {
       "name": "Chad da Man",
       "craft": "Truck"
+    },
+    {
+      "name": "Melany",
+      "craft": "Car"
     }
   ]
 }
